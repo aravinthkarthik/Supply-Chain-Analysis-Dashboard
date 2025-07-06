@@ -23,5 +23,5 @@
             Stock Analysis
             Transportation Analysis
             Strategic Analysis
-## Data set 
-      [Dataset](<a href ="https://github.com/aravinthkarthik/Supply-Chain-Analysis-Dashboard/blob/main/supply_chain_table.csv"Supply Chain Dataset</a>)
+## Data model
+      ![model view](https://github.com/user-attachments/assets/28e43fc8-66ea-457e-a5aa-3d10631c8724)
